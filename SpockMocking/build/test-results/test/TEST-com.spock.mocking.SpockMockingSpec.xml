@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spock.mocking.SpockMockingSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-29T17:43:15" hostname="DESKTOP-M7I1QDK" time="0.042">
+  <properties/>
+  <testcase name="Get Welcome Message" classname="com.spock.mocking.SpockMockingSpec" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (com.athaydes.spockframework.report.SpockReportExtension).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
