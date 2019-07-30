@@ -6,9 +6,13 @@ public class SpockMocking {
 		// TODO Auto-generated method stub
 
 	}
-	
+
 	public String getMessage() {
 		return "Hello World!!";
+	}
+
+	public String mockMethod(String strParam) {
+		return "Hello Mocking";
 	}
 
 }
