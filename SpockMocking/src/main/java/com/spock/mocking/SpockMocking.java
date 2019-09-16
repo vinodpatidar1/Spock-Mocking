@@ -4,7 +4,7 @@ public class SpockMocking {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-sddsadsa
+
 	}
 
 	public String getMessage() {
